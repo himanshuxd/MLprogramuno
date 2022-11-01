@@ -1,2 +1,2 @@
 # MLprogramuno
-my 1st ML program
+ML program
